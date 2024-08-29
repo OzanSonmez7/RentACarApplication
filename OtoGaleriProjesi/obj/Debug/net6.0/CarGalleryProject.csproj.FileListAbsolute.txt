@@ -1,0 +1,14 @@
+C:\Users\snayp\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\CarGalleryProject.exe
+C:\Users\snayp\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\CarGalleryProject.deps.json
+C:\Users\snayp\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\CarGalleryProject.runtimeconfig.json
+C:\Users\snayp\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\CarGalleryProject.dll
+C:\Users\snayp\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\CarGalleryProject.pdb
+C:\Users\snayp\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\CarGalleryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snayp\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\CarGalleryProject.AssemblyInfoInputs.cache
+C:\Users\snayp\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\CarGalleryProject.AssemblyInfo.cs
+C:\Users\snayp\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\CarGalleryProject.csproj.CoreCompileInputs.cache
+C:\Users\snayp\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\CarGalleryProject.dll
+C:\Users\snayp\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\refint\CarGalleryProject.dll
+C:\Users\snayp\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\CarGalleryProject.pdb
+C:\Users\snayp\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\CarGalleryProject.genruntimeconfig.cache
+C:\Users\snayp\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\ref\CarGalleryProject.dll

@@ -1,0 +1,5 @@
+C:\Users\snayp\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\CarGalleryProject.exe
+C:\Users\snayp\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\CarGalleryProject.dll
+C:\Users\snayp\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\CarGalleryProject.deps.json
+C:\Users\snayp\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\CarGalleryProject.runtimeconfig.json
+C:\Users\snayp\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\CarGalleryProject.pdb
